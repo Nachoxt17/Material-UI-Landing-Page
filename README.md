@@ -1,3 +1,7 @@
+Enter HERE:\_
+
+Landing Page made with React.js, react-scroll and Material UI.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
